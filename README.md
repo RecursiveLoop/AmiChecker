@@ -2,7 +2,7 @@
 
 This checks your AWS environment to see if it is running public AMIs of a specific type.
 
-It currently checks for EC2 instances running Windows 2003, Windows 2008, SQL Server 2005 and SQL Server 2008 AMIs and generates a CSV report.
+It currently checks for EC2 instances running Windows 2003, Windows 2008, SQL Server 2005 and SQL Server 2008 AMIs and generates a CSV report. All regions except China and GovCloud are checked and reported on.
 
 ## Pre-Requisites
 
